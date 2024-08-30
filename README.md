@@ -15,8 +15,8 @@ This is a repository that I have created to track my progress in AI/Data Science
 |---|---|---|---|
 | 📈 [Credit Risk Prediction](https://github.com/alex-yatseyko/team_project/blob/main/README.md) | Data Analysis, ML | This is a project I worked with team in terms of my DSI learning  | pandas, matplotlib | 
 | 🏘️ [Apartment Price Prediction](https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/README.md) | Data Analysis, ML | Apartment price prediction before war | pandas, matplotlib, openstreetmaps, seaborn |
-| 💻 [Laptop Price Prediction](https://github.com/alex-yatseyko/portfolio/blob/main/projects/Laptop%20Price%20Prediction/README.md) | Data Analysis, ML | Apartment price prediction before war | pandas, matplotlib, openstreetmaps, seaborn |
-<!---| 💰 [Income Prediction] (https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/README.md) | Data Analysis, ML | Apartment price prediction before war | pandas, matplotlib, openstreetmaps, seaborn | -->
+| 💻 [Laptop Price Prediction](https://github.com/alex-yatseyko/portfolio/blob/main/projects/Laptop%20Price%20Prediction/README.md) | Data Analysis, ML | Apartment price prediction before war in Ukraine | pandas, matplotlib, openstreetmaps, seaborn |
+-| 💰 [Income Prediction] (https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/projects/Income%20Prediction/README.md) | Data Analysis, ML | Income prediction based on occupation, race, marital status | pandas, matplotlib, openstreetmaps, seaborn
 
 
 
