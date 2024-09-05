@@ -19,8 +19,9 @@ This is a repository that I have created to track my progress in AI/Data Science
 | 💰 [Income Prediction](https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/projects/Income%20Prediction/README.md) | Data Analysis, ML | Income prediction based on occupation, race, marital status | pandas, matplotlib, seaborn |
 | ✈️ [Flight Price Prediction](https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/projects/Flight_price_prediction/README.md) | Data Analysis, ML | Flight price prediction based on flight duration, class and airline | pandas, matplotlib, seaborn |
 | 👨‍💻 [Software developer salary prediction](https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/projects/Software_developer_salary_prediction/README.md) | Data Analysis, ML | Software developer salary prediction based on data from Stack Overflow | pandas, matplotlib, seaborn, streamlit |
+| 🚢 [Titanic Survival Prediction](https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/projects/Titanic_Survival_Prediction/README.md) | Data Analysis, ML | Titanic Survival Prediction based on age, sex, class, fare | pandas, matplotlib, seaborn |
 <!--| 🏘️ [Apartment Price Prediction in 🇨🇦 Ontario](https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/README.md) | Data Analysis, ML | Apartment price prediction before war | pandas, matplotlib, openstreetmaps, seaborn |-->
-<!--| 🏘️ [House Price Prediction in 🇺🇸 California](https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/projects/Flight_price_prediction/README.md) | Data Analysis, ML | Apartment price prediction before war | pandas, matplotlib, openstreetmaps, seaborn |-->
+<!--| 🏘️ [House Price Prediction in 🇺🇸 California and Map Visualisation](https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/projects/Flight_price_prediction/README.md) | Data Analysis, ML | Apartment price prediction before war | pandas, matplotlib, openstreetmaps, seaborn |-->
 
 
 # Computer Vision
@@ -43,3 +44,7 @@ This is a repository that I have created to track my progress in AI/Data Science
 
 <!--- SQL -->
 <!--- DB from sells and analysis of it with tasks provided in as -->
+
+
+
+<!--- Excel -->
