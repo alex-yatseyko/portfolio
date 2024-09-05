@@ -27,11 +27,11 @@ This is a repository that I have created to track my progress in AI/Data Science
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---| 
-| 🍅 [Tomato Disease Recognition](https://github.com/alex-yatseyko/tomato_disease/blob/main/README.md) |   Deep Learning, CNN | I analysed photos of tomatoes with disases to identify if there is a disease to help farmers | keras, matplotlib |  
+| 🍅 [Tomato Disease Recognition](https://github.com/alex-yatseyko/tomato_disease/blob/main/README.md) | Deep Learning, CNN | I analysed photos of tomatoes with disases to identify if there is a disease to help farmers | keras, matplotlib |  
+| 🚻 [Gender Detection](https://github.com/alex-yatseyko/Gender_detection/blob/main/README.md) | Deep Learning | Guitar Form Recognition based on provided image | keras, matplotlib |
 <!---| 🏞️ [Comparison and deployment of different NN on CIFAR-100](https://github.com/alex-yatseyko/guitar_form_recognition/blob/main/README.md) | DL, CNN | Guitar Form Recognition based on provided image | pandas, matplotlib, openstreetmaps, seaborn | -->
 <!---| 🎸 [Guitar Form Recognition](https://github.com/alex-yatseyko/guitar_form_recognition/blob/main/README.md) | Deep Learning | Guitar Form Recognition based on provided image | pandas, matplotlib, openstreetmaps, seaborn | -->
 <!---| 🏼 [Skin Cancer Detection](https://github.com/alex-yatseyko/guitar_form_recognition/blob/main/README.md) | Deep Learning | Guitar Form Recognition based on provided image | pandas, matplotlib, openstreetmaps, seaborn | -->
-| 🚻 [Gender Detection](https://github.com/alex-yatseyko/Gender_detection/blob/main/README.md) | Deep Learning | Guitar Form Recognition based on provided image | keras, matplotlib |
 
 
 
