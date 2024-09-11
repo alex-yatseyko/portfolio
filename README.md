@@ -6,7 +6,7 @@ This is a repository that I have created to track my progress in AI/Data Science
 <!--- [Data Engineering](#data-engineering)-->
 - [Data Analysis](#data-aanlysis)
 - [Computer Vision](#computer-vision)
-<!--- [Large Language Model](#llm)-->
+- [Large Language Model](#llm)
 <!--- [SQL](#sql)-->
 
 # Data Analysis
@@ -36,9 +36,8 @@ This is a repository that I have created to track my progress in AI/Data Science
 <!---| 🏼 [Skin Cancer Detection](https://github.com/alex-yatseyko/guitar_form_recognition/blob/main/README.md) | Deep Learning | Guitar Form Recognition based on provided image | pandas, matplotlib, openstreetmaps, seaborn | -->
 
 
-
-
-<!--- Large Language Model -->
+# Large Language Model
+| 📚 [Book Recommender System](https://github.com/alex-yatseyko/Book_recommender_system/blob/main/README.md) | DL, Llama | Guitar Form Recognition based on provided image | pandas, faiss, numpy, llama |
 <!---| 🎬 [Movie Recommender](https://github.com/alex-yatseyko/guitar_form_recognition/blob/main/README.md) | DL, CNN | Guitar Form Recognition based on provided image | pandas, matplotlib, openstreetmaps, seaborn | -->
 
 
