@@ -1,0 +1,32 @@
+price,model,city,brand,fuel,engine,year,mileage,transmission,bodytype
+12 100,Volkswagen Passat,Черняхів,volkswagen,dizel,"Дизель, 2 л.",2013,308 тис. км,Автомат,universal
+16 700,Toyota Camry,Київ,toyota,benzin,"Бензин, 2.5 л.",2011,165 тис. км,Автомат,sedan
+9 700,Volkswagen Passat,Вінниця,volkswagen,gaz-propan-butan-benzin,"Газ пропан-бутан / Бензин, 2.5 л.",2013,176 тис. км,Автомат,sedan
+14 100,Volkswagen Passat,Київ,volkswagen,dizel,"Дизель, 1.97 л.",2016,300 тис. км,Автомат,universal
+16 500,Volkswagen Passat,Ржищів,volkswagen,benzin,"Бензин, 1.8 л.",2016,207 тис. км,Автомат,sedan
+14 500,Toyota Camry,Вінниця,toyota,benzin,"Бензин, 2.49 л.",2012,164 тис. км,Автомат,sedan
+12 200,Volkswagen Passat,Бориспіль,volkswagen,benzin,"Бензин, 1.8 л.",2015,130 тис. км,Автомат,sedan
+11 000,Toyota Yaris,Київ,toyota,benzin,"Бензин, 1.5 л.",2017,127 тис. км,Автомат,sedan
+8 800,Volkswagen Passat,Біла Церква,volkswagen,gaz-propan-butan-benzin,"Газ пропан-бутан / Бензин, 2.5 л.",2012,259 тис. км,Автомат,sedan
+7 700,Volkswagen Passat,Житомир,volkswagen,gaz-propan-butan-benzin,"Газ пропан-бутан / Бензин, 1.4 л.",2012,251 тис. км,Ручна / Механіка,universal
+9 950,Toyota Avensis,Вінниця,toyota,benzin,"Бензин, 1.8 л.",2011,131 тис. км,Ручна / Механіка,sedan
+9 900,Volkswagen Golf,Біла Церква,volkswagen,dizel,"Дизель, 1.6 л.",2015,205 тис. км,Ручна / Механіка,universal
+8 499,Volkswagen Golf,Тульчин,volkswagen,dizel,"Дизель, 1.6 л.",2012,250 тис. км,Автомат,universal
+13 900,Toyota Avensis,Житомир,toyota,benzin,"Бензин, 1.8 л.",2015,178 тис. км,Ручна / Механіка,sedan
+7 200,Volkswagen Golf,Бровари,volkswagen,dizel,"Дизель, 1.6 л.",2013,360 тис. км,Ручна / Механіка,universal
+13 500,Volkswagen Golf,Бердичів,volkswagen,dizel,"Дизель, 1.6 л.",2015,283 тис. км,Ручна / Механіка,universal
+16 998,Volkswagen Passat,Житомир,volkswagen,dizel,"Дизель, 1.97 л.",2015,296 тис. км,Автомат,universal
+12 500,Volkswagen Passat,Київ,volkswagen,benzin,"Бензин, 1.8 л.",2016,155 тис. км,Автомат,sedan
+10 500,Volkswagen Passat,Київ,volkswagen,benzin,"Бензин, 2.48 л.",2013,277 тис. км,Автомат,sedan
+7 750,Volkswagen Golf,Бердичів,volkswagen,benzin,"Бензин, 1.6 л.",2012,208 тис. км,Ручна / Механіка,universal
+8 800,Volkswagen Golf,Київ,volkswagen,benzin,"Бензин, 1.4 л.",2013,173 тис. км,Автомат,universal
+15 900,Toyota Camry,Київ,toyota,benzin,"Бензин, 2.5 л.",2017,145 тис. км,Автомат,sedan
+9 500,Volkswagen Passat,Ладижин,volkswagen,gaz-propan-butan-benzin,"Газ пропан-бутан / Бензин, 2.48 л.",2012,197 тис. км,Автомат,sedan
+8 100,Volkswagen Passat,Бориспіль,volkswagen,gaz-propan-butan-benzin,"Газ пропан-бутан / Бензин, 2.5 л.",2013,200 тис. км,Автомат,sedan
+12 950,Volkswagen Passat,Вінниця,volkswagen,benzin,"Бензин, 1.8 л.",2016,120 тис. км,Автомат,sedan
+10 050,Volkswagen Passat,Київ,volkswagen,gaz-propan-butan-benzin,"Газ пропан-бутан / Бензин, 2.5 л.",2012,210 тис. км,Автомат,sedan
+17 990,Volkswagen Passat,Київ,volkswagen,dizel,"Дизель, 2 л.",2016,223 тис. км,Автомат,universal
+11 400,Volkswagen Passat,Київ,volkswagen,dizel,"Дизель, 1.6 л.",2013,217 тис. км,Ручна / Механіка,universal
+10 500,Volkswagen Passat,Бровари,volkswagen,benzin,"Бензин, 2.5 л.",2013,202 тис. км,Автомат,sedan
+11 500,Volkswagen Passat,Софіївська Борщагівка,volkswagen,gaz-propan-butan-benzin,"Газ пропан-бутан / Бензин, 2.5 л.",2012,320 тис. км,Автомат,sedan
+11 300,Volkswagen Passat,Київ,volkswagen,dizel,"Дизель, 2 л.",2012,270 тис. км,Ручна / Механіка,sedan
