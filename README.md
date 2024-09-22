@@ -21,6 +21,7 @@ This is a repository that I have created to track my progress in AI/Data Science
 | 👨‍💻 [Software developer salary prediction](https://github.com/alex-yatseyko/portfolio/blob/main/projects/Software_developer_salary_prediction/README.md) | Data Analysis, ML | Software developer salary prediction based on data from Stack Overflow | pandas, matplotlib, seaborn, streamlit |
 | 🚢 [Titanic Survival Prediction](https://github.com/alex-yatseyko/portfolio/blob/main/projects/Titanic_Survival_Prediction/README.md) | Data Analysis, ML | Titanic Survival Prediction based on age, sex, class, fare | pandas, matplotlib, seaborn |
 | 🦪 [Abalone Age Prediction](https://github.com/alex-yatseyko/portfolio/blob/main/projects/Abalone_age_prediction/README.md) | Data Analysis, ML | Abalone age prediction based on weight, size and sex | pandas, matplotlib, seaborn |
+| ❤️‍🩹 [Health Insurance](https://github.com/alex-yatseyko/portfolio/blob/main/projects/Health_Insurance/README.md) | Data Analysis, ML | Prediction of Health Insurance charges. The key factor in it is smoking. I could achieve R2 0.87, but still insurance data is very specific | pandas, matplotlib, seaborn |
 <!--| 🏘️ [Apartment Price Prediction in 🇨🇦 Ontario](https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/README.md) | Data Analysis, ML | Apartment price prediction before war | pandas, matplotlib, openstreetmaps, seaborn |-->
 <!--| 🏘️ [House Price Prediction in 🇺🇸 California and Map Visualisation](https://github.com/alex-yatseyko/ukraine_house_prices/blob/main/projects/Flight_price_prediction/README.md) | Data Analysis, ML | Apartment price prediction before war | pandas, matplotlib, openstreetmaps, seaborn |-->
 
@@ -38,6 +39,8 @@ This is a repository that I have created to track my progress in AI/Data Science
 
 
 # Large Language Model
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---| 
 | 📚 [Book Recommender System](https://github.com/alex-yatseyko/portfolio/blob/main/projects/Book_recommender_system/blob/main/README.md) | DL, Llama | Guitar Form Recognition based on provided image | pandas, faiss, numpy, llama |
 <!---| 🎬 [Movie Recommender](https://github.com/alex-yatseyko/guitar_form_recognition/blob/main/README.md) | DL, CNN | Guitar Form Recognition based on provided image | pandas, matplotlib, openstreetmaps, seaborn | -->
 
